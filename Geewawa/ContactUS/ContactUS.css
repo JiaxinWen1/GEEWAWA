@@ -1,0 +1,280 @@
+.header {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    padding: 0;
+    margin: 0;
+}
+
+.header::before {
+    content: none;
+}
+
+.header-background {
+    display: none;
+}
+
+/* 页眉内容 */
+.header-content {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 0 32px;
+    background-color: rgba(0, 0, 0, 0.5); /* 半透明背景 */
+    z-index: 2;
+}
+
+.logo {
+    width: 150px;
+    height: 60px;
+    margin-right: 30px;
+}
+
+.header h1 {
+    color: #fff;
+    margin: 0 32px 0 0;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+
+.header .nav {
+    display: flex;
+    gap: 24px;
+}
+
+.header .nav h3 {
+    color: #fff;
+    margin: 0;
+    font-weight: normal;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.header .nav h3:hover {
+    transform: scale(1.1);
+}
+
+/* 搜索框样式 */
+.search-container {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    background-color:rgba(59, 59, 59, 0.5);
+    border-radius: 20px;
+    padding: 5px 10px;
+    overflow: hidden;
+}
+
+.search-input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 5px;
+    width: 150px;
+    font-size: 14px;
+}
+
+.search-input::placeholder {
+    color: #aaa;
+}
+
+.search-button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.search-button:hover {
+    color: #f0f0f0;
+}
+
+.nav-link {
+    color: #fff;
+    margin: 0;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: 1.17em;
+    text-decoration: none;
+    transition: transform 0.2s ease;
+    display: inline-block;
+}
+
+.nav-link:hover {
+    transform: scale(1.1);
+}
+
+/* 联系我们页面 */
+.content {
+    width: 100%;
+    height: 100%;
+
+}
+
+.contact-us-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contact-us-content {
+    text-align: center;
+    color: #000000;
+    padding: 20px;
+    border-radius: 10px;    
+}
+
+/* 语言切换 */
+.language-switch {
+    margin-left: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.lang-btn {
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.lang-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.lang-btn.active {
+    background: #fff;
+    color: #000;
+}
+
+/* 页脚样式 */
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0 20px;
+    margin-top: 50px;
+}
+
+.footer-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin-bottom: 30px;
+    padding-right: 20px;
+}
+
+.footer-section h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.footer-section h3::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 40px;
+    height: 2px;
+    background-color: #f39c12;
+}
+
+.footer-section p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 8px;
+}
+
+.footer-section ul li a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 14px;
+}
+
+.footer-section ul li a:hover {
+    color: #f39c12;
+}
+
+.footer-contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.footer-contact-item svg {
+    margin-right: 10px;
+    flex-shrink: 0;
+    min-width: 16px;
+    height: 16px;
+}
+
+.footer-contact-item p {
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+.footer-contact-item:last-child {
+    margin-bottom: 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #555;
+    width: 100%;
+}
+
+.footer-bottom p {
+    font-size: 13px;
+    color: #aaa;
+}
+
+/* 响应式布局 - 页脚 */
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+    }
+    
+    .footer-section {
+        width: 100%;
+        padding-right: 0;
+    }
+}
