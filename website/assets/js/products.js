@@ -375,12 +375,12 @@ const productsData = [
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-1.1_3.jpg",
+                image: "../../picture/type2/012-1.1_3.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.1_1.jpg",
-                    "../../picture/type2/012-1.1_2.jpg",
-                    "../../picture/type2/012-1.1_3.jpg",
-                    "../../picture/type2/012-1.1_4.jpg"
+                    "../../picture/type2/012-1.1_1.JPG",
+                    "../../picture/type2/012-1.1_2.JPG",
+                    "../../picture/type2/012-1.1_3.JPG",
+                    "../../picture/type2/012-1.1_4.JPG"
                 ]
             }
         ]
@@ -389,7 +389,7 @@ const productsData = [
     {
         id: 102,
         category: "type2",
-        image: "../../picture/type2/012-1.2_4.jpg",
+        image: "../../picture/type2/012-1.2_4.JPG",
         features: [
             "11111111111111",
             "22222222222222",
@@ -399,33 +399,33 @@ const productsData = [
                 name: "yellow",
                 name_en: "Yellow",
                 code: "yellow",
-                image: "../../picture/type2/012-1.2_4.jpg",
+                image: "../../picture/type2/012-1.2_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.2_1.jpg",
-                    "../../picture/type2/012-1.2_2.jpg",
-                    "../../picture/type2/012-1.2_4.jpg"
+                    "../../picture/type2/012-1.2_1.JPG",
+                    "../../picture/type2/012-1.2_2.JPG",
+                    "../../picture/type2/012-1.2_4.JPG"
                 ]
             },
             {
                 name: "grayish brown",
                 name_en: "Grayish Brown",
                 code: "grayish brown",
-                image: "../../picture/type2/012-1.3_4.jpg",
+                image: "../../picture/type2/012-1.3_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.3_1.jpg",
-                    "../../picture/type2/012-1.3_2.jpg",
-                    "../../picture/type2/012-1.3_4.jpg"
+                    "../../picture/type2/012-1.3_1.JPG",
+                    "../../picture/type2/012-1.3_2.JPG",
+                    "../../picture/type2/012-1.3_4.JPG"
                 ]
             },
             {
                 name: "reddish brown",
                 name_en: "Reddish Brown",
                 code: "reddish brown",
-                image: "../../picture/type2/012-1.4_1.jpg",
+                image: "../../picture/type2/012-1.4_1.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.4_1.jpg",
-                    "../../picture/type2/012-1.4_2.jpg",
-                    "../../picture/type2/012-1.4_4.jpg"
+                    "../../picture/type2/012-1.4_1.JPG",
+                    "../../picture/type2/012-1.4_2.JPG",
+                    "../../picture/type2/012-1.4_4.JPG"
                 ]
             }
         ]
@@ -433,7 +433,7 @@ const productsData = [
     {
         id: 103,
         category: "type2",
-        image: "../../picture/type2/012-1.5_4.jpg",
+        image: "../../picture/type2/012-1.5_4.JPG",
         features: [
             "11111111111111",
             "22222222222222",
@@ -443,44 +443,44 @@ const productsData = [
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-1.5_4.jpg",
+                image: "../../picture/type2/012-1.5_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.5_1.jpg",
-                    "../../picture/type2/012-1.5_2.jpg",
-                    "../../picture/type2/012-1.5_4.jpg"
+                    "../../picture/type2/012-1.5_1.JPG",
+                    "../../picture/type2/012-1.5_2.JPG",
+                    "../../picture/type2/012-1.5_4.JPG"
                 ]
             },
             {
                 name: "green brown",
                 name_en: "Green Brown",
                 code: "green brown",
-                image: "../../picture/type2/012-1.6_4.jpg",
+                image: "../../picture/type2/012-1.6_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.6_1.jpg",
-                    "../../picture/type2/012-1.6_2.jpg",
-                    "../../picture/type2/012-1.6_4.jpg"
+                    "../../picture/type2/012-1.6_1.JPG",
+                    "../../picture/type2/012-1.6_2.JPG",
+                    "../../picture/type2/012-1.6_4.JPG"
                 ]
             },
             {
                 name: "cyan",
                 name_en: "Cyan",
                 code: "cyan",
-                image: "../../picture/type2/012-1.7_4.jpg",
+                image: "../../picture/type2/012-1.7_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.7_1.jpg",
-                    "../../picture/type2/012-1.7_2.jpg",
-                    "../../picture/type2/012-1.7_4.jpg"
+                    "../../picture/type2/012-1.7_1.JPG",
+                    "../../picture/type2/012-1.7_2.JPG",
+                    "../../picture/type2/012-1.7_4.JPG"
                 ]
             },
             {
                 name: "red",
                 name_en: "Red",
                 code: "red",
-                image: "../../picture/type2/012-1.8_4.jpg",
+                image: "../../picture/type2/012-1.8_4.JPG", 
                 thumbnails: [
-                    "../../picture/type2/012-1.8_1.jpg",
-                    "../../picture/type2/012-1.8_2.jpg",
-                    "../../picture/type2/012-1.8_4.jpg"
+                    "../../picture/type2/012-1.8_1.JPG",
+                    "../../picture/type2/012-1.8_2.JPG",
+                    "../../picture/type2/012-1.8_4.JPG"
                 ]
             }
         ]
@@ -488,7 +488,7 @@ const productsData = [
     {
         id: 104,
         category: "type2",
-        image: "../../picture/type2/012-1.9_4.jpg",
+        image: "../../picture/type2/012-1.9_4.JPG",
         features: [
             "11111111111111",
             "22222222222222",
@@ -498,99 +498,99 @@ const productsData = [
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-1.9_4.jpg",
+                image: "../../picture/type2/012-1.9_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-1.9_1.jpg",
-                    "../../picture/type2/012-1.9_2.jpg",
-                    "../../picture/type2/012-1.9_4.jpg"
+                    "../../picture/type2/012-1.9_1.JPG",
+                    "../../picture/type2/012-1.9_2.JPG",
+                    "../../picture/type2/012-1.9_4.JPG"
                 ]
             },
             {
                 name: "green-brown",
                 name_en: "Green-Brown",
                 code: "green-brown",
-                image: "../../picture/type2/012-2.3_4.jpg",
+                image: "../../picture/type2/012-2.3_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.3_1.jpg",
-                    "../../picture/type2/012-2.3_2.jpg",
-                    "../../picture/type2/012-2.3_4.jpg"
+                    "../../picture/type2/012-2.3_1.JPG",
+                    "../../picture/type2/012-2.3_2.JPG",
+                    "../../picture/type2/012-2.3_4.JPG"
                 ]
             },
             {
                 name: "dark green",
                 name_en: "Dark Green",
                 code: "dark green",
-                image: "../../picture/type2/012-2.4_4.jpg",
+                image: "../../picture/type2/012-2.4_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.4_1.jpg",
-                    "../../picture/type2/012-2.4_2.jpg",
-                    "../../picture/type2/012-2.4_4.jpg"
+                    "../../picture/type2/012-2.4_1.JPG",
+                    "../../picture/type2/012-2.4_2.JPG",
+                    "../../picture/type2/012-2.4_4.JPG"
                 ]
             },
             {
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-2.5_4.jpg",
+                image: "../../picture/type2/012-2.5_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.5_1.jpg",
-                    "../../picture/type2/012-2.5_2.jpg",
-                    "../../picture/type2/012-2.5_4.jpg"
+                    "../../picture/type2/012-2.5_1.JPG",
+                    "../../picture/type2/012-2.5_2.JPG",
+                    "../../picture/type2/012-2.5_4.JPG"
                 ]
             },
             {
                 name: "green-brown",
                 name_en: "Green-Brown",
                 code: "green-brown",
-                image: "../../picture/type2/012-2.6_4.jpg",
+                image: "../../picture/type2/012-2.6_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.6_1.jpg",
-                    "../../picture/type2/012-2.6_2.jpg",
-                    "../../picture/type2/012-2.6_4.jpg"
+                    "../../picture/type2/012-2.6_1.JPG",
+                    "../../picture/type2/012-2.6_2.JPG",
+                    "../../picture/type2/012-2.6_4.JPG"
                 ]
             },
             {
                 name: "green-brack",
                 name_en: "Green-Brack",
                 code: "green-brack",
-                image: "../../picture/type2/012-2.7_4.jpg",
+                image: "../../picture/type2/012-2.7_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.7_1.jpg",
-                    "../../picture/type2/012-2.7_2.jpg",
-                    "../../picture/type2/012-2.7_4.jpg"
+                    "../../picture/type2/012-2.7_1.JPG",
+                    "../../picture/type2/012-2.7_2.JPG",
+                    "../../picture/type2/012-2.7_4.JPG"
                 ]
             },
             {
                 name: "dark green",
                 name_en: "Dark Green",
                 code: "dark green",
-                image: "../../picture/type2/012-2.8_4.jpg",
+                image: "../../picture/type2/012-2.8_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.8_1.jpg",
-                    "../../picture/type2/012-2.8_2.jpg",
-                    "../../picture/type2/012-2.8_4.jpg"
+                    "../../picture/type2/012-2.8_1.JPG",
+                    "../../picture/type2/012-2.8_2.JPG",
+                    "../../picture/type2/012-2.8_4.JPG"
                 ]
             },
             {
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-2.9_4.jpg",
+                image: "../../picture/type2/012-2.9_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.9_1.jpg",
-                    "../../picture/type2/012-2.9_2.jpg",
-                    "../../picture/type2/012-2.9_4.jpg"
+                    "../../picture/type2/012-2.9_1.JPG",
+                    "../../picture/type2/012-2.9_2.JPG",
+                    "../../picture/type2/012-2.9_4.JPG"
                 ]
             },
             {
                 name: "dark green-brown",
                 name_en: "Dark Green-Brown",
                 code: "dark green-brown",
-                image: "../../picture/type2/012-3.0_4.jpg",
+                image: "../../picture/type2/012-3.0_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-3.0_1.jpg",
-                    "../../picture/type2/012-3.0_2.jpg",
-                    "../../picture/type2/012-3.0_4.jpg"
+                    "../../picture/type2/012-3.0_1.JPG",
+                    "../../picture/type2/012-3.0_2.JPG",
+                    "../../picture/type2/012-3.0_4.JPG"
                 ]
             }
         ]
@@ -598,7 +598,7 @@ const productsData = [
     {
         id: 105,
         category: "type2",
-        image: "../../picture/type2/012-3.1_3.jpg",
+        image: "../../picture/type2/012-3.1_3.JPG",
         features: [
             "11111111111111",
             "22222222222222",
@@ -608,22 +608,22 @@ const productsData = [
                 name: "black",
                 name_en: "Black",
                 code: "black",
-                image: "../../picture/type2/012-3.1_4.jpg",
+                image: "../../picture/type2/012-3.1_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-3.1_1.jpg",
-                    "../../picture/type2/012-3.1_2.jpg",
-                    "../../picture/type2/012-3.1_3.jpg",
-                    "../../picture/type2/012-3.1_4.jpg"
+                    "../../picture/type2/012-3.1_1.JPG",
+                    "../../picture/type2/012-3.1_2.JPG",
+                    "../../picture/type2/012-3.1_3.JPG",
+                    "../../picture/type2/012-3.1_4.JPG"
                 ]
             },
             {
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-3.2_4.jpg",
+                image: "../../picture/type2/012-3.2_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-3.2_1.jpg",
-                    "../../picture/type2/012-3.2_2.jpg",
+                    "../../picture/type2/012-3.2_1.JPG",
+                    "../../picture/type2/012-3.2_2.JPG",
                     "../../picture/type2/012-3.2_3.jpg",
                     "../../picture/type2/012-3.2_4.jpg"
                 ]
@@ -632,12 +632,12 @@ const productsData = [
                 name: "green",
                 name_en: "Green",
                 code: "green",
-                image: "../../picture/type2/012-3.3_4.jpg",
+                image: "../../picture/type2/012-3.3_4.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-3.3_1.jpg",
-                    "../../picture/type2/012-3.3_2.jpg",
-                    "../../picture/type2/012-3.3_3.jpg",
-                    "../../picture/type2/012-3.3_4.jpg"
+                    "../../picture/type2/012-3.3_1.JPG",
+                    "../../picture/type2/012-3.3_2.JPG",
+                    "../../picture/type2/012-3.3_3.JPG",
+                    "../../picture/type2/012-3.3_4.JPG"
                 ]
             }
         ]
@@ -645,7 +645,7 @@ const productsData = [
     {
         id: 107,
         category: "type2",
-        image: "../../picture/type2/012-2.0.jpg",
+        image: "../../picture/type2/012-2.0.JPG",
         features: [
             "11111111111111",
             "22222222222222",
@@ -655,18 +655,18 @@ const productsData = [
                 name: "black",
                 name_en: "Black",
                 code: "black",
-                image: "../../picture/type2/012-2.0_1.jpg",
+                image: "../../picture/type2/012-2.0_1.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.0_1.jpg"
+                    "../../picture/type2/012-2.0_1.JPG"
                 ]
             },
             {
                 name: "brown",
                 name_en: "Brown",
                 code: "brown",
-                image: "../../picture/type2/012-2.1_1.jpg",
+                image: "../../picture/type2/012-2.1_1.JPG",
                 thumbnails: [
-                    "../../picture/type2/012-2.1_1.jpg"
+                    "../../picture/type2/012-2.1_1.JPG"
                 ]
             }
         ]
