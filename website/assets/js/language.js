@@ -19,7 +19,7 @@ const translations = {
         
         // 首页部分
         'home.about_title': '关于我们',
-        'home.about_subtitle': '朗浩科技有限公司',
+        'home.about_subtitle': 'GEEWAWA Shoes',
         'home.about_desc': '是一家国家级高新技术企业。自 2012 年成立，经过十年的持续改善及创新，现已发展成为集制鞋及自动化装备研发为一体的新型制鞋企业。公司不断加强和高校的联合开发，加强新型材料和功能的运用，逐渐培养出一支具备高新技术人才的管理团队。公司拥有自主的研发设计团队，现已成长为从研发到生产销售一体的全功能性企业',
         'home.about_button': '查看更多',
         'home.products_title': '产品展示',
@@ -53,10 +53,10 @@ const translations = {
         
         // 关于我们页面
         'about.title': '关于我们',
-        'about.content': '朗浩科技有限公司是一家国家级高新技术企业。自 2012 年成立，经过十年的持续改善及创新，现已发展成为集制鞋及自动化装备研发为一体的新型制鞋企业。公司不断加强和高校的联合开发，加强新型材料和功能的运用，逐渐培养出一支具备高新技术人才的管理团队。公司拥有自主的研发设计团队，现已成长为从研发到生产销售一体的全功能性企业',
+        'about.content': 'GEEWAWA Shoes是一家国家级高新技术企业。自 2012 年成立，经过十年的持续改善及创新，现已发展成为集制鞋及自动化装备研发为一体的新型制鞋企业。公司不断加强和高校的联合开发，加强新型材料和功能的运用，逐渐培养出一支具备高新技术人才的管理团队。公司拥有自主的研发设计团队，现已成长为从研发到生产销售一体的全功能性企业',
         'about.banner.title': '关于我们',
         'about.banner.subtitle': '用科技的力量做高品质的鞋',
-        'about.company.name': '朗浩科技有限公司',
+        'about.company.name': 'GEEWAWA Shoes',
         'about.company.badge': '国家级高新技术企业',
         'about.company.year': '始创于2012年',
         'about.company.desc': '经过十年的持续改善及创新，现已发展成为集制鞋及自动化装备研发为一体的新型制鞋企业。公司不断加强和高校的联合开发，强化新型材料和功能的运用，逐渐培养出一支具备高新技术人才的管理团队。公司拥有自主的研发设计团队，现已成长为从研发到生产销售一体的全功能性企业。',
@@ -67,7 +67,7 @@ const translations = {
         'about.certification.title': '认证资质',
         'about.certification.note': '拥有数十项专利，大部分专利成功转化为生产力，并获得科学技术奖项。',
         'about.team.title': '人员配备',
-        'about.team.longho': '朗浩科技',
+        'about.team.longho': 'GEEWAWA Shoes',
         'about.team.topalliance': '鼎盟创新',
         'about.team.employees': '员工人数',
         'about.team.desc': '加强与高校的合作，利用新材料新功能，逐步建立起一支高素质的高效管理队伍。',
@@ -86,7 +86,7 @@ const translations = {
         'about.design.title': '设计研发中心',
         'about.design.desc': '设计研发是企业创新的核心力量。这里汇聚了经验丰富的鞋类设计师、工艺专家等专业人才，他们凭借敏锐行业触觉和精湛技艺，深入调研市场潮流，精心构思、反复打磨每一款鞋样，确保样品兼具美观与功能性，为后续大规模生产提供高品质参照，有力推动鞋厂新品不断推陈出新，在激烈市场竞争中始终保持优势。',
         'about.lab.title': '实验测试中心',
-        'about.lab.desc': '朗浩与鼎盟都是SATRA的成员之一，拥有二十多台专业的材料和成品试验机（拉伸/磨边/弯曲/压缩/防水捻丝机等），并有经验丰富的测试人员对公司产品进行相关测试。',
+        'about.lab.desc': 'GEEWAWA与鼎盟都是SATRA的成员之一，拥有二十多台专业的材料和成品试验机（拉伸/磨边/弯曲/压缩/防水捻丝机等），并有经验丰富的测试人员对公司产品进行相关测试。',
         'about.gallery.title': '公司照片',
         'gallery.all': '全部',
         'gallery.workshop': '车间',
@@ -100,13 +100,13 @@ const translations = {
         'contact.email': '邮箱',
         'contact.address': '地址',
         'contact.address1': '广东省东莞市',
-        'contact.banner_text1': '联系我们，',
-        'contact.banner_text2': 'LONGHO诚邀合作，共赢未来',
+        'contact.banner_text1': '联系我们',
+        'contact.banner_text2': 'GEEWAWA诚邀合作，共赢未来',
         'contact.company_phone': '公司总机',
         'contact.company_fax': '公司传真',
         'contact.company_location': '广东省东莞市厚街镇赤岭工业区元前街40号',
         'contact.company_location2': 'Road#4 Phum Thlerk, Khum Pperk, Sruk Angsnoul, Kondal Province,Combodia',
-        'contact.company_zip': '朗浩科技有限公司地址',
+        'contact.company_zip': 'GEEWAWA Shoes地址',
         'contact.company_zip2': '鼎盟创新有限公司地址',
         'contact.map.view': '点击查看地图',
         'contact.media': '523940',
@@ -128,7 +128,7 @@ const translations = {
 
         // 页脚部分
         'footer.about': '公司简介',
-        'footer.about_text': 'LONGHO',
+        'footer.about_text': 'GEEWAWA',
         'footer.quick_links': '快速链接',
         'footer.product_categories': '产品分类',
         'footer.category1': '登山鞋',
@@ -138,11 +138,11 @@ const translations = {
         'footer.contact': '联系方式',
         'footer.address': '东莞市厚街镇赤岭工业区元前街40号',
         'footer.address2': 'Road#4 Phum Thlerk, Khum Pperk,Sruk Angsnoul, Kondal Province,Combodia',
-        'footer.copyright': '© 2025.LONGHO',
+        'footer.copyright': '© 2025.GEEWAWA',
         'vision.title': '愿景与计划',
         'vision.desc': '我们致力于成为行业领先的创新型企业，不断推动制鞋工艺与自动化技术的进步。未来，公司将持续加大研发投入，拓展国际市场，提升品牌影响力，并积极践行可持续发展战略，为客户、员工和社会创造更大价值。',
         'vision.subtitle': '引领行业创新，成就美好未来',
-        'footer.email': 'salesman02@longhoshoes.com',
+        'footer.email': 'salesman02@geewawashoes.com',
         'footer.phone': '+86 123 4567 8910'
     },
     en: {
@@ -164,10 +164,10 @@ const translations = {
         
         // Homepage
         'home.about_title': 'About Us',
-        'home.about_subtitle': 'LONGHO',
-        'home.about_desc': 'grows to be a complex enterprise of footwear manufacturing and automatic equipment research and development and innovation. LONGHO is a fully functional company runs from sample design to production manufacturing and selling with independent design and development team.',
+        'home.about_subtitle': 'GEEWAWA',
+        'home.about_desc': 'GEEWAWA is a National High-tech Enterprise. Established in 2012, it has developed into a new shoe-making company integrating shoe making and automation equipment research and development and innovation. GEEWAWA is a fully functional company runs from sample design to production manufacturing and selling with independent design and development team.',
         'home.about_button': 'View More',
-        'home.products_title': 'Products',
+        'home.products_title': 'Product Display',
         'home.product1_title': 'Product Type 1',
         'home.product1_desc': 'High-quality products to meet your needs',
         'home.product2_title': 'Product Type 2',
@@ -199,10 +199,13 @@ const translations = {
         
         // About Us page
         'about.title': 'About Us',
-        'about.content': 'LONGHO Company is dedicated to the research, development and production of intelligent devices, committed to providing high-quality products and excellent service to our customers.',
+        'about.content': 'GEEWAWA Shoes是一家国家级高新技术企业。自 2012 年成立，经过十年的持续改善及创新，现已发展成为集制鞋及自动化装备研发为一体的新型制鞋企业。公司不断加强和高校的联合开发，加强新型材料和功能的运用，逐渐培养出一支具备高新技术人才的管理团队。公司拥有自主的研发设计团队，现已成长为从研发到生产销售一体的全功能性企业',
         'about.banner.title': 'About Us',
-        'about.banner.subtitle': 'Producing high-quality shoes with today\'s technology',
-        'about.company.name': 'LONGHO Technology Co., Ltd.',
+        'about.banner.subtitle': 'Crafting High-Quality Shoes with the Power of Technology',
+        'about.company_intro': 'Company Introduction',
+        'about.mission': 'Our Mission',
+        'about.mission_text': 'Dedicated to providing the highest quality products and services, exceeding customer expectations.',
+        'about.company.name': 'GEEWAWA Shoes',
         'about.company.badge': 'National High-Tech Enterprise',
         'about.company.year': 'Founded in 2012',
         'about.company.desc': 'After a decade of continuous improvement and innovation, it has now developed into a new type of footwear enterprise integrating footwear and automated equipment R&D. The company continues to strengthen joint development with universities, strengthen the application of new materials and functions, and gradually cultivate a management team with high-tech talents. The company has its own R&D and design team and has grown into a fully functional enterprise integrating R&D, production, and sales.',
@@ -212,11 +215,11 @@ const translations = {
         'about.subsidiary.desc': 'Focusing on the production of safety shoes and sports shoes, with exquisite craftsmanship and a relentless pursuit of quality, we create a series of products that meet market demands and high-quality standards. Over the years, we have always adhered to the concept of innovation, actively adapted to market changes, continued to grow in fierce market competition, and gradually established a good brand image in the footwear industry, winning widespread recognition and trust from global consumers.',
         'about.certification.title': 'Certifications',
         'about.certification.note': 'Owns dozens of patents, most of which have been successfully transformed into productivity, and has received awards for scientific and technological achievements.',
-        'about.team.title': 'Personnel',
-        'about.team.longho': 'LONGHO Technology',
-        'about.team.topalliance': 'Top Alliance',
+        'about.team.title': 'Our Team',
+        'about.team.longho': 'GEEWAWA Shoes',
+        'about.team.topalliance': 'Top Alliance Innovation',
         'about.team.employees': 'Employees',
-        'about.team.desc': 'Strengthening cooperation with universities, utilizing new materials and functions, and gradually building a high-quality and efficient management team.',
+        'about.team.desc': 'Strengthen cooperation with universities, utilize new materials and new functions, and gradually establish a high-quality and efficient management team.',
         'about.capacity.title': 'Department Capacity',
         'about.capacity.cambodia': '(Cambodia)',
         'about.capacity.china': '(China)',
@@ -231,8 +234,8 @@ const translations = {
         'about.capacity.monthly': 'Monthly Output',
         'about.design.title': 'Design R&D Center',
         'about.design.desc': 'Design and R&D is the core force of enterprise innovation. Here, experienced shoe designers, process experts and other professionals gather, who, with keen industry touch and exquisite skills, research market trends, carefully conceive and repeatedly polish each shoe sample to ensure that samples are both beautiful and functional, providing high-quality references for subsequent mass production, strongly promoting the continuous innovation of new products in the shoe factory, and maintaining an advantage in fierce market competition.',
-        'about.lab.title': 'Laboratory Testing Center',
-        'about.lab.desc': 'Both LONGHO and Top Alliance are members of SATRA, with more than 20 professional material and finished product testing machines (tension/edge grinding/bending/compression/waterproof twisting machine, etc.), and experienced testing personnel to test the company\'s products.',
+        'about.lab.title': 'Lab & Testing Center',
+        'about.lab.desc': 'Both GEEWAWA and Top Alliance are members of SATRA, with more than 20 professional material and finished product testing machines (tension/edge grinding/bending/compression/waterproof twisting machine, etc.)\n        and experienced testers to conduct relevant tests on company products.',
         'about.gallery.title': 'Company Photos',
         'gallery.all': 'All',
         'gallery.workshop': 'Workshop',
@@ -246,12 +249,12 @@ const translations = {
         'contact.email': 'Email',
         'contact.address': 'Address',
         'contact.address1': 'Dongguan City, Guangdong Province',
-        'contact.banner_text1': 'Contact Us,',
-        'contact.banner_text2': 'LONGHO invites cooperation for a win-win future',
+        'contact.banner_text1': 'Contact Us',
+        'contact.banner_text2': 'GEEWAWA invites cooperation for a win-win future',
         'contact.company_phone': 'Company Phone',
         'contact.company_location': 'No.4, Chiling Yuanqian Street, HoujieTown,Dong uan City, Guangdong Province, China',
         'contact.company_location2': 'Road#4 Phum Thlerk, Khum Pperk, Sruk Angsnoul, Kondal Province,Combodia',
-        'contact.company_zip': 'LONGHO Technology Co., Ltd.',
+        'contact.company_zip': 'GEEWAWA Shoes',
         'contact.company_zip2': 'Top Alliance Innovation Co., Ltd.',
         'contact.media': '523940',
         'contact.media.email': 'Zipcode',
@@ -271,21 +274,21 @@ const translations = {
         'search.content_match': 'Content match',
 
         // Footer section
-        'footer.about': 'About Company',
-        'footer.about_text': 'LONGHO',
+        'footer.about': 'About Us',
+        'footer.about_text': 'GEEWAWA',
         'footer.quick_links': 'Quick Links',
         'footer.product_categories': 'Product Categories',
         'footer.category1': 'Hiking Boots',
         'footer.category2': 'Cowboy Leather Outsole Boots',
         'footer.category3': 'Goodyear Welt Work Shoes',
-        'footer.contact': 'Contact Information',
+        'footer.contact': 'Contact',
         'footer.address': 'No.4, Chiling Yuanqian Street, HoujieTown,Dongguan City, Guangdong Province, China',
         'footer.address2': 'Road#4 Phum Thlerk, Khum Pperk,Sruk Angsnoul, Kondal Province,Combodia',
-        'footer.copyright': '© 2025.LONGHO',
+        'footer.copyright': '© 2025.GEEWAWA',
         'vision.title': 'Vision & Plan',
         'vision.desc': 'We have expansion plans, expand plant, equipment, increase personnel, enhance production capacity, enhance competitiveness, and look forward to a bright future. We hope to continue to provide our customers with high quality products and services.',
         'vision.subtitle': 'Leading Innovation, Shaping the Future',
-        'footer.email': 'salesman02@longhoshoes.com',
+        'footer.email': 'salesman02@geewawashoes.com',
         'footer.phone': '+86 123 4567 8910'
     }
 };
@@ -427,7 +430,7 @@ function updatePageTitle(lang) {
     }
     
     if (title) {
-        document.title = 'LONGHO - ' + title;
+        document.title = 'GEEWAWA - ' + title;
     }
 }
 
